@@ -7,7 +7,7 @@ Package.describe({
 
 Package.on_use(function(api) {
   api.add_files([
-    'vendor/normalize.css',
-    'vendor/skeleton.css'
+    'vendor/css/normalize.css',
+    'vendor/css/skeleton.css'
   ], ['client']);
 });
