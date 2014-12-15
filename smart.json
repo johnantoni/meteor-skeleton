@@ -1,8 +1,0 @@
-{
-  "name": "meteor-skeleton",
-  "description": "Skeleton: A dead simple, responsive boilerplate, built for Meteor.",
-  "homepage": "https://github.com/johnantoni/meteor-skeleton",
-  "author": "johnantoni",
-  "version": "0.0.1",
-  "git": "https://github.com/johnantoni/meteor-skeleton.git"
-}
