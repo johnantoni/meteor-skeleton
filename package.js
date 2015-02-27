@@ -1,13 +1,13 @@
 Package.describe({
   name: 'johnantoni:meteor-skeleton',
   summary: 'Skeleton: A dead simple, responsive boilerplate, built for Meteor.',
-  version: '0.0.2',
+  version: '0.0.3',
   git: 'https://github.com/johnantoni/meteor-skeleton.git'
 });
 
 Package.on_use(function(api) {
   api.add_files([
-    'vendor/css/normalize.css',
-    'vendor/css/skeleton.css'
+    'Skeleton/css/normalize.css',
+    'Skeleton/css/skeleton.css'
   ], ['client']);
 });
