@@ -1,7 +1,7 @@
 Package.describe({
   name: 'johnantoni:meteor-skeleton',
   summary: 'Skeleton: A dead simple, responsive boilerplate, built for Meteor.',
-  version: '0.0.3',
+  version: '0.0.4',
   git: 'https://github.com/johnantoni/meteor-skeleton.git'
 });
 
